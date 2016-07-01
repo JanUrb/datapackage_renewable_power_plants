@@ -1,3 +1,4 @@
 .gitignore
 output
 .idea
+.ipynb_checkpoints
