@@ -5,3 +5,12 @@ raw_data.sqlite
 requirements.txt~
 validation_report.xlsx
 .idea/
+amprion_nach_einlesen
+hertz_nach_einlesen
+input/Europe.csv
+tennet_nach_einlesen
+transnet_nach_einlesen
+.gitignore
+DE_renewables.pickle
+test_123.csv
+DK_renewables.pickle
